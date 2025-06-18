@@ -1,2 +1,2 @@
-# agnostick
-Utiliites for Agno AGI
+# agno + 🥢
+Utilities for Agno AGI
